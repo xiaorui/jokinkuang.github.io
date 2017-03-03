@@ -19,9 +19,9 @@ sitefile: "/db/Sitefile" # the Database
 page_size: 3
 
 # comment settings
-duoshuo_short_name: "sbys" # the user of user.domain.com
-duoshuo_user_uid: "6324572809590735618" # the admin user uid
-duoshuo_user_name: "xk" # the admin user name
+duoshuo_short_name: "simplesir" # the user of user.domain.com
+duoshuo_user_uid: "58dbb4bd51f71e0e14562c8d7662ad28" # the admin user uid
+duoshuo_user_name: "SimpleSir" # the admin user name
 duoshuo_max_depth: "2"  # the max_depth setting in duoshuo comments
 
 # 3rd URL
