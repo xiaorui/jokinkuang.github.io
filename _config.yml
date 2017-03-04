@@ -1,14 +1,14 @@
 # Site settings
-title: Step By Step
-author: jokin
-email: 345106552@qq.com
+title: Can not stop
+author: xiaorui
+email: 329783470@qq.com
 description: > # this means to ignore newlines until next "tag"
-  Step By Step, a blog of jokinkuang
+  no description
 
 #repository: jokinkuang/jokinkuang.github.io # solve the errors when change the post on jekyll running
 
 # Site URL NOTE: if your site is base on subdir /blog you can change it to "www.XXX.com/blog"
-domain: "http://jokinkuang.github.io" # the domain URL for your site
+domain: "http://xiaorui.github.io" # the domain URL for your site
 base: ""  # the relative path that different with domain so you can test locally
 
 # Source URL NOTE: end with / cause it's [URL + FILE]
